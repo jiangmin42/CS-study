@@ -251,7 +251,7 @@
 
 # <a id="下载">下载</a>
 
-以上所有资料都在以下位置下载：
+**以上所有资料都在这个百度网盘下载：**
 
 [百度云下载链接](链接: https://pan.baidu.com/s/1xBwqBhBry7g34mailtKyTw 密码: 3m9r
 
